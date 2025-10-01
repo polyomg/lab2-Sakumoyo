@@ -1,2 +1,2 @@
-# lab2-Sakumoyo
-lab2-Sakumoyo created by GitHub Classroom
+# TV00103-Đinh Trung Hiếu - LAB2
+created by GitHub Classroom
